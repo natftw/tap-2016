@@ -1,0 +1,19 @@
+CVS: 0.5
+Resumo: 1.6
+Projeto: 6.1
+Nota G1: 8.2
+================
+Feedback Resumo
+================
+não tem: entrelinhas 1,5, parágrafo 1,5 cm, espaçamento entre parágrafos de 0,5 cm, texto Justificado.
+tem título
+não usou corretor gráfico
+texto confuso
+====================
+Feedback Projeto
+====================
+Repositório correto. No entanto, não colocou os arquivos na pasta ordenacao conforme o solicitado.
+Perde 0.1 por entregar com atraso.
+Documentação dentro do código praticamente inexistente.
+Interface gráfica falha, pois é necessário fechar e abrir o programa para conseguir gerar um novo vetor para o método a ser testado. Botão de documentação também não funciona quando o projeto não fica na pasta padrão.Tutorial e explanação dos métodos ótimas. Só cuide a formatação do texto para o próxima entrega (sempre justificado, nas normas ABNT) 
+
